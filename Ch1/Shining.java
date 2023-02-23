@@ -1,3 +1,11 @@
+// Building Java Programs
+// Chapter 1 - Excercise 16
+// build - Shining
+//
+// outputs:
+//
+// 1000 lines of "All work and no play makes Jack a dull boy." -- no loops, only methods, minimal redundancy
+
 public class Shining {
     public static void main(String[] args) {
         x6();
