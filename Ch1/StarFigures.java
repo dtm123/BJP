@@ -1,3 +1,37 @@
+// Building Java Programs
+// Chapter 1 - Excercise 13
+// build - StarFigures
+
+/*
+
+
+*****
+*****
+ * *
+  *
+ * *
+
+*****
+*****
+ * *
+  *
+ * *
+*****
+*****
+
+  *
+  *
+  *
+*****
+*****
+ * *
+  *
+ * *
+
+
+*/
+
+
 public class StarFigures {
     public static void main(String[] args) {
         rc();

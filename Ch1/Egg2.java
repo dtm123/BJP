@@ -1,3 +1,34 @@
+// Building Java Programs
+// Chapter 1 - Excercise 10
+// build - Egg2
+
+/*
+  _______
+ /       \
+/         \
+\         /
+ \_______/
+
+-"-'-"-'-"-
+  _______
+ /       \
+/         \
+\         /
+ \_______/
+
+-"-'-"-'-"-
+\         /
+ \_______/
+  _______
+ /       \
+/         \
+-"-'-"-'-"-
+\         /
+ \_______/
+
+
+ */
+
 public class Egg2 {
 
     public static void top() {
