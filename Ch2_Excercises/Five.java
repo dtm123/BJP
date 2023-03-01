@@ -1,5 +1,5 @@
 // Building Java Programs
-// Chapter 2 - Excercise 4
+// Chapter 2 - Excercise 5
 //
 // use nested for loop to output
 /*
